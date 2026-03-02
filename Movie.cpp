@@ -15,9 +15,10 @@ private:
     string title;
     int yearReleased;
     string screenWriter;
-public 
+
+public: 
     Movie();
-    Movie(string, t, int y, string s);
+    Movie(string t, int y, string s);
 
     void setTitle(const string& t);
     void setYearReleased(int y);
@@ -35,7 +36,7 @@ void readMovies(vector<Movie>& movies);
 
 int main()
 {
-    vector<Movie> movies;
+    vector <Movie> movies;
 
     readMovies(movies);
 
