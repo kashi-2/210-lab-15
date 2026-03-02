@@ -1,15 +1,12 @@
 TestScreenWriter1
 2019
 Best Movie of 2019
-
 TestScreenWriter2
 2020
 Best Movie of 2020
-
 TestScreenWriter3
 2021
 Best Movie of 2021
-
 TestScreenWriter4
 2022
 Best Movie of 2022

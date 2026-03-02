@@ -40,7 +40,7 @@ int main()
 
     readMovies(movies);
 
-    cout << "\n------------ Movie List ------------\n\n ";
+    cout << "\n------------ Movie List ------------\n\n";
 
     for (size_t i = 0; i < movies.size(); i++)
     {
